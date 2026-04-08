@@ -66,4 +66,4 @@ npm run dev
 
 ## 📄 الترخيص (License)
 جميع الحقوق محفوظة - تجمع الجوف الصحي 2026.
-Designed & Developed by **Antigravity AI Agent** for **SAJCO**.
+Designed & Developed by **Tamer El Gohary** for **SAJCO**.
